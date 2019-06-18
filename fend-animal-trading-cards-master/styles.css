@@ -1,0 +1,47 @@
+/* add your CSS here */
+#penguin{
+	width: 300px;
+	height: 300px;
+	border-radius: 5px;
+}
+#maincard{
+	margin: auto;
+	width: 300px;
+	border: 0.5px solid #DCDCDC;
+	padding: 20px;
+	box-shadow: 10px 10px 5px #DCDCDC;
+	border-radius: 5px;
+	background: #FFFFE0;
+}
+
+.description{
+	border: 0.5px solid #DCDCDC;
+	padding: 10px;
+	margin: 10px 0px 0px 0px;
+	border-radius: 5px;	
+	background: white;
+}
+
+#fact{
+	font-style: italic;
+	color: #FF1493;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0px;
+	color: #191970;
+}
+
+.items{
+	font-weight: bold;
+}
+
+h3{
+	font-size: 30px;
+	color: #FF69B4;
+}
+
+.info{
+	color: #191970;
+}
